@@ -11,6 +11,8 @@ amplify add auth
 amplify add api
 # add S3 hosting
 amplify add hosting
+# push all configurations
+amplify push
 ```
 
 ### All Steps
