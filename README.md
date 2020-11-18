@@ -1,21 +1,21 @@
-1.Getting Familiar with the Amplify CLI
-2.Ridiculously Simple Authentication using withAuthenticator HOC
-3.Executing GraphQL Queries/Mutations with AppSync
-4.Adding Update/Delete Operations to NoteTaker App
-5.Real-time Data with GraphQL Subscriptions
-6.Using Future React with React Hooks
-7.Deploying our App with S3 Hosting
-8.Initializing our App/Creating our GraphQL API
-9.Customizing Amplify-React Components
-10.Adding New Markets/Managing App State with React Context
-11.Easier GraphQL Queries with the Connect Component
-12.Powerful GraphQL Queries with AWS ElasticSearch
-13.Adding Market Products/Uploading Files with S3 Storage
-14.CRUD Operations with Market Products/Real-Time Data with Subscriptions
-15.Serverless REST APIs with AWS Lambda/Processing Charges with Stripe
-16.Sending Transactional Emails with Amazon Simple Email Service
-17.Building the Profile Page/Verifying Modified Emails with Verification Codes
-18.Finishing our Marketplace App
+# 1.Getting Familiar with the Amplify CLI
+# 2.Ridiculously Simple Authentication using withAuthenticator HOC
+# 3.Executing GraphQL Queries/Mutations with AppSync
+# 4.Adding Update/Delete Operations to NoteTaker App
+# 5.Real-time Data with GraphQL Subscriptions
+# 6.Using Future React with React Hooks
+# 7.Deploying our App with S3 Hosting
+# 8.Initializing our App/Creating our GraphQL API
+# 9.Customizing Amplify-React Components
+# 10.Adding New Markets/Managing App State with React Context
+# 11.Easier GraphQL Queries with the Connect Component
+# 12.Powerful GraphQL Queries with AWS ElasticSearch
+# 13.Adding Market Products/Uploading Files with S3 Storage
+# 14.CRUD Operations with Market Products/Real-Time Data with Subscriptions
+# 15.Serverless REST APIs with AWS Lambda/Processing Charges with Stripe
+# 16.Sending Transactional Emails with Amazon Simple Email Service
+# 17.Building the Profile Page/Verifying Modified Emails with Verification Codes
+# 18.Finishing our Marketplace App
 
 ### Initialize Environment
 
@@ -466,6 +466,3 @@ module.exports = app;
 - [Element React Docs](https://element.eleme.io/#/en-US/component/dialog)
 - [Icon Now](https://icon.now.sh/)
 
-### Question:
-
-1. Where is the docs for element-react package?
