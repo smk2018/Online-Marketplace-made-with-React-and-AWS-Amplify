@@ -1,3 +1,21 @@
+### Initialize Environment
+
+```sh
+#  install packages
+yarn install
+#  initialize amplify
+amplify init
+# add auth module
+amplify add auth
+# add GraphQL module
+amplify add api
+# add S3 hosting
+amplify add hosting
+```
+
+### All Steps
+
+```
 # 1.Getting Familiar with the Amplify CLI
 # 2.Ridiculously Simple Authentication using withAuthenticator HOC
 # 3.Executing GraphQL Queries/Mutations with AppSync
@@ -16,21 +34,7 @@
 # 16.Sending Transactional Emails with Amazon Simple Email Service
 # 17.Building the Profile Page/Verifying Modified Emails with Verification Codes
 # 18.Finishing our Marketplace App
-
-### Initialize Environment
-
-```sh
-#  install packages
-yarn install
-#  initialize amplify
-amplify init
-# add auth module
-amplify add auth
-# add GraphQL module
-amplify add api
-# add S3 hosting
-amplify add hosting
-```
+````
 
 ### GraphQL Schema
 
